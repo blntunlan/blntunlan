@@ -7,6 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=blntunlan&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=E84E4E&icon_color=E84E4E&text_color=C9D1D9" alt="GitHub Stats" />
 </p>
 
+### 🎓 GitHub Student Developer Pack & Pro Developer
+As a **GitHub Student Developer**, I leverage premium tools to build high-performance applications.
+- 🤖 **GitHub Copilot Pro**: Accelerating development with AI-driven pair programming.
+- 🚀 **GitHub Pro**: Advanced collaboration tools and private repo insights.
+- ☁️ **Cloud Native**: Utilizing student benefits for Azure, DigitalOcean, and Heroku environments.
+
 ### 🚀 About Me
 I am a passionate **Game Developer** with a solid foundation in **Cyber Security**. I love blending high-performance game mechanics with real-time data integrations. My philosophy: **Performance is law, memory safety is paramount, and aesthetics are non-negotiable.**
 
