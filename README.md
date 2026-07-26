@@ -1,70 +1,20 @@
-# 👨‍💻 Bülent Ünalan (blntunlan)
-### Game Developer 🎮 | Cyber Security Enthusiast 🔒 | 💎 Diamond Hands
+# Bülent Ünalan
 
----
+Game developer working with Unity and Unreal Engine. I focus on gameplay systems, combat mechanics, and technical prototypes that turn an idea into something playable.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blntunlan&show_icons=true&theme=aura&hide_border=true&bg_color=0D1117&title_color=E84E4E&icon_color=E84E4E&text_color=C9D1D9" alt="GitHub Stats" />
-</p>
+Most of my recent work is in C# and C++/Blueprints. I also use Python for tooling and experiments.
 
-### 🎓 GitHub Student Developer Pack & Pro Developer
-As a **GitHub Student Developer**, I leverage premium tools to build high-performance applications.
-- 🤖 **GitHub Copilot Pro**: Accelerating development with AI-driven pair programming.
-- 🚀 **GitHub Pro**: Advanced collaboration tools and private repo insights.
-- ☁️ **Cloud Native**: Utilizing student benefits for Azure, DigitalOcean, and Heroku environments.
+## Selected projects
 
-### 🚀 About Me
-I am a passionate **Game Developer** with a solid foundation in **Cyber Security**. I love blending high-performance game mechanics with real-time data integrations. My philosophy: **Performance is law, memory safety is paramount, and aesthetics are non-negotiable.**
+- [Hype](https://github.com/blntunlan/Hype) — a top-down zombie survival prototype in Unreal Engine, built around the Gameplay Ability System and Enhanced Input.
+- [GigaTap](https://github.com/blntunlan/GigaTap) — a Unity reflex game with event-driven gameplay, adaptive difficulty, combo logic, and modular power-ups.
+- [Photo Quality Ranker](https://github.com/blntunlan/photo-quality-ranker) — a Python CLI for batch-scoring HEIC, JPEG, and PNG images with NIMA or CLIP.
+- [WAF-Abuser](https://github.com/blntunlan/WAF-Abuser) — a Python security research tool that uses DNS history and response similarity to identify possible origin infrastructure.
 
-- 🔭 I’m currently building **[Crypto Survivors](https://github.com/blntunlan/crypto-cyber-survivors)** — a real-time market-driven survival game.
-- 🔐 Former **Ethical Hacker**, applying security-first architectural patterns to gamedev.
-- ⚡ **GC-Free Loop Enthusiast**: I build game engines that respect the CPU and memory.
-- 📍 Based in **Turkey**.
+## Areas of interest
 
----
+Gameplay architecture, data-driven mechanics, performance, security, and developer tooling.
 
-### 🛠️ Tech Stack & Specialized Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security-E84E4E?style=for-the-badge&logo=ghostery&logoColor=white" />
-</p>
+## Core tools
 
----
-
-### 🏆 Featured Project: Crypto Survivors
-**Real-Time Market-Driven Vampire Survivors Game**
-*Kill bears, dodge bulls, survive the volatility.*
-
-- **Live Market Data**: Integrates Binance & Coinbase WebSockets for real-time BTC/USD price action.
-- **Layered AI Director**: Dynamic difficulty scaling based on RSI, ATR, and Volume indicators.
-- **PWA Ready**: Cross-platform support for Desktop and Mobile.
-- **Robust Anti-Cheat**: Secure backend verification on Supabase.
-
-👉 **[Explore the repository](https://github.com/blntunlan/crypto-cyber-survivors)**
-
----
-
-### 📊 Performance & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blntunlan&layout=compact&theme=aura&hide_border=true&bg_color=0D1117&title_color=E84E4E&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bülent-ünalan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blntunlan)
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blntunlan/crypto-cyber-survivors/main/public/logo512.png" width="100" />
-  <br>
-  <i>"HODL through the chaos"</i>
-</p>
+Unity · Unreal Engine · C# · C++ · Blueprints · Python
